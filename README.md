@@ -1,0 +1,2 @@
+# privacy
+WeVote プライバシーポリシー
